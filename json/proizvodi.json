@@ -1,0 +1,284 @@
+[{
+        "idp": 1,
+        "naziv": "C Sandale",
+        "id": 5,
+        "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+        "cena": 5000,
+        "stara": 6000,
+        "popust": 10,
+        "slika": {
+            "alt": "Sandale1",
+            "src": "sandale1.jpg"
+        },
+        "datum": "2015-08-12"
+    },
+    {
+        "idp": 2,
+        "naziv": "B Cizme",
+        "id": 6,
+        "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+        "cena": 1000,
+        "stara": 3000,
+        "popust": 5,
+        "slika": {
+            "alt": "Cizme2",
+            "src": "cizme2.jpg"
+        },
+        "datum": "2018-09-01"
+    },
+    {
+        "idp": 3,
+        "naziv": "M Cizme",
+        "id": 6,
+        "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+        "cena": 2000,
+        "stara": 6000,
+        "popust": 20,
+        "slika": {
+            "alt": "Cizme3",
+            "src": "cizme3.jpg"
+        },
+        "datum": "2019-10-12"
+    },
+    {
+        "idp": 4,
+        "naziv": "T Sandale",
+        "id": 5,
+        "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+        "cena": 7000,
+        "stara": 9000,
+        "popust": 20,
+        "slika": {
+            "alt": "Sandale2",
+            "src": "sandale2.jpg"
+        },
+        "datum": "2018-08-13"
+    },
+    {
+        "idp": 5,
+        "naziv": "PP Cizme",
+        "id": 6,
+        "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+        "cena": 2500,
+        "stara": 6000,
+        "popust": 20,
+        "slika": {
+            "alt": "Cizme5",
+            "src": "cizme5.jpg"
+        },
+        "datum": "2012-08-12"
+    },
+    {
+        "idp": 6,
+        "naziv": "K Cizme",
+        "id": 6,
+        "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+        "cena": 3000,
+        "stara": 5000,
+        "popust": 10,
+        "slika": {
+            "alt": "Cizme6",
+            "src": "cizme6.jpg"
+        },
+        "datum": "2019-08-12"
+    },
+     {
+         "idp": 7,
+         "naziv": "Q Cizme",
+         "id": 9,
+         "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+         "cena": 2000,
+         "stara": 6000,
+         "popust": 20,
+         "slika": {
+             "alt": "Cizme7",
+             "src": "cizme7.jpg"
+         },
+         "datum": "2019-08-20"
+     },
+     {
+         "idp": 8,
+         "naziv": "AA Cizme",
+         "id": 9,
+         "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+         "cena": 5000,
+         "stara": 6000,
+         "popust": 15,
+         "slika": {
+             "alt": "Cizme",
+             "src": "cizme9.jpg"
+         },
+         "datum": "2020-09-10"
+     },
+     {
+         "idp": 9,
+         "naziv": "RT Stikle",
+         "id": 4,
+         "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+         "cena": 9000,
+         "stara": 15000,
+         "popust": 30,
+         "slika": {
+             "alt": "Stikle1",
+             "src": "stikle1.jpg"
+         },
+         "datum": "2020-04-05"
+     },
+       {
+           "idp": 10,
+           "naziv": "BM Stikle",
+           "id": 4,
+           "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+           "cena": 1000,
+           "stara": 9000,
+           "popust": 40,
+           "slika": {
+               "alt": "Stikle2",
+               "src": "stikle2.jpg"
+           },
+           "datum": "2019-05-03"
+       },
+       {
+           "idp": 11,
+           "naziv": "V Stikle",
+           "id": 4,
+           "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+           "cena": 2999,
+           "stara": 5000,
+           "popust": 10,
+           "slika": {
+               "alt": "Stikle3",
+               "src": "stikle3.jpg"
+           },
+           "datum": "2019-07-05"
+       },
+       {
+           "idp": 12,
+           "naziv": "K Papuce",
+           "id": 12,
+           "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+           "cena": 2999,
+           "stara": 4000,
+           "popust": 10,
+           "slika": {
+               "alt": "Papuce1",
+               "src": "papuce11.jpg"
+           },
+           "datum": "2018-06-04"
+       },
+       {
+           "idp": 13,
+           "naziv": "F Patike",
+           "id": 8,
+           "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+           "cena": 15000,
+           "stara": 13000,
+           "popust": 50,
+           "slika": {
+               "alt": "Patike1",
+               "src": "patike1.jpg"
+           },
+           "datum": "2015-06-04"
+       },
+       {
+           "idp": 14,
+           "naziv": "Y Patike",
+           "id": 8,
+           "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+           "cena": 4000,
+           "stara": 5000,
+           "popust": 10,
+           "slika": {
+               "alt": "Patike2",
+               "src": "patike2.jpg"
+           },
+           "datum": "2015-06-20"
+       },
+       {
+           "idp": 15,
+           "naziv": "Z Patike",
+           "id": 8,
+           "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+           "cena": 1500,
+           "stara": 3000,
+           "popust": 50,
+           "slika": {
+               "alt": "Patike3",
+               "src": "patike3.jpg"
+           },
+           "datum": "2018-10-09"
+       },
+       {
+           "idp": 16,
+           "naziv": "D Patike",
+           "id": 13,
+           "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+           "cena": 2000,
+           "stara": 3500,
+           "popust": 15,
+           "slika": {
+               "alt": "Patike12",
+               "src": "patike12.jpg"
+           },
+           "datum": "2019-12-30"
+       },
+       {
+           "idp": 17,
+           "naziv": "Q Patike",
+           "id": 13,
+           "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+           "cena": 4000,
+           "stara": 8000,
+           "popust": 50,
+           "slika": {
+               "alt": "Patike13",
+               "src": "patike13.jpg"
+           },
+           "datum": "2019-09-15"
+       },
+       {
+           "idp": 18,
+           "naziv": "E Papuce",
+           "id": 12,
+           "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+           "cena": 999,
+           "stara": 1999,
+           "popust": 10,
+           "slika": {
+               "alt": "Papuce2",
+               "src": "papuce2.jpg"
+           },
+           "datum": "2015-07-13"
+       },
+       {
+           "idp": 19,
+           "naziv": "N Papuce",
+           "id": 16,
+           "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+           "cena": 2000,
+           "stara": 3000,
+           "popust": 5,
+           "slika": {
+               "alt": "Papuce3",
+               "src": "papuce8.jpg"
+           },
+           "datum": "2017-07-13"
+       },
+    {
+        "idp": 20,
+        "naziv": "J Papuce",
+        "id": 16,
+        "opis": "Fabrika obuće ima 22 godina iskustva u oblasti dizajna i proizvodnje obuće od prirodne kože.",
+        "cena": 2000,
+        "stara": 5000,
+        "popust": 20,
+        "slika": {
+            "alt": "Papuce4",
+            "src": "papuce3.jpg"
+        },
+        "datum": "2020-03-27"
+    }
+
+
+
+]

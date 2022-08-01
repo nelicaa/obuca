@@ -1,0 +1,44 @@
+#slike img{
+    display:none;
+}
+#slike .aktivna{
+    display: block;
+}
+
+*{
+    box-sizing: border-box;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+.invalid-feedback,
+.valid-feedback {
+    display: block !important;
+}
+.zeleno{
+    display:none !important;
+}
+.skriveno{
+    display: block !important;
+}
+#kontakt{
+    display:none;
+}
+.in{
+    display:block !important;
+}
+.card-text{
+    line-height: 1.1 !important;
+}
+#strelica{
+    text-align: center;
+    height: 6%;
+    position: absolute;
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
+    z-index: 100;
+    background-color: #cce5ff;
+    padding: 1%;
+}

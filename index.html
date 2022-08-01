@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Obuća
+    </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta name="keywords" content="Cizme, papuce, patike, sandale, zene, muskarci" />
+    <meta name="description" content="Online prodaja Obuće." />
+    <meta name="author" content="mailto:nelica.stojadinovic.136.18@ict.edu.rs" />
+    <meta name="robots" content="index, follow" />
+    <link rel="shortcut icon" href="img/stikle1.jpg" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+      <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      </head>
+  <body>
+    <nav class="navbar navbar-expand-md  navbar-light bg-light pl-5" id="navbar">
+      <a class="navbar-brand" href="#">Obuća</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul id="meni" class="navbar-nav mr-auto"></ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" id="search">
+    </form>
+  </div>
+</nav>
+<div class="alert alert-primary zeleno text-center" id="alert" role="alert">
+  Uspešno ste registrovali porudžbinu!
+</div>
+<div class="container-fluid col-11 alert-primary p-4 mt-3  d-flex flex-row">
+  <div class="col-6 my-auto"> <a class="primary-text text-decoration-none d-inline d-xs-none" href="index.html" id="trecia">Prikazi 2</a>
+  <a class="primary-text text-decoration-none d-none d-md-inline d-lg-inline d-xl-inline" href="index.html" id="prvia">Prikazi 4</a>
+  <a class="primary-text text-decoration-none d-none d-lg-inline" href="index.html" id="drugia">Prikazi 6</a>
+</div>
+<div class="col-6 text-right my-auto">
+  <div class="input-group mb-3 col-md-11 mx-auto my-auto">
+    <select id="lista" class="custom-select" id="inputGroupSelect01">
+      <option value="6" selected>Izaberite</option>
+      <option value="1">Sortiraj po nazivu</option>
+      <option value="2">Sortiraj po ceni rastuca</option>
+      <option value="3">Sortiraj po ceni opadajuce</option>
+      <option value="4">Sortiraj prema najnovijem</option>
+      <option value="5">Sortiraj prema popustu</option>
+    </select>
+  </div>
+</div>
+  
+</div>
+<div class="container d-flex flex-column mt-1 col-md-12 col-sm-12 flex-md-row" >
+<div id="check" class="input-group container d-flex flex-column col-lg-3 col-md-4 col-sm-12 flex-wrap">
+ 
+</div>
+<div id="proizvod" class="card-group col-lg-8 col-md-8 col-sm-12">
+
+</div>
+</div>
+<div id="autor">
+<div class="mb-3 container mt-5 col-lg-8 col-md-8 col-xl-7 col-sm-6 col-xs-4">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="img/6.jpg" class="card-img" alt="Autor">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Nelica Stojadinović</h5>
+        <p class="card-text">Moje ime je Nelica Stojadinović. Rođena sam 30. juna 1999. godine. Živim u Markovcu, selu kod Velike Plane. U Velikoj
+        Plani sam završila gimnaziju, društveno-jezički smer. Sada privremeno živim u Beogradu, zbog fakulteta.</p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<div id="kontakt" class="container-fluid col-8 p-4 mb-5">
+  <form action="index.html" method="POST">
+      <div class="form-row container-fluid  ">
+        <div class="col-md-6 mb-3 my-auto mx-auto">
+          <label for="validationServer01">Ime</label>
+          <input type="text" class="form-control" id="ime" >
+          <div class="korisnik" id="jedan">
+            
+          </div>
+        </div>
+        <div class="col-md-6 mb-3 my-auto mx-auto">
+          <label for="validationServer02">Prezime</label>
+          <input type="text" class="form-control " id="prezime" >
+          <div class="korisnik" id="dva">
+           
+          </div>
+          <!-- invalid-feedback,is-valid, is-invalid, valid-feedback -->
+        </div>
+        <div class="form-group"></div>
+        <div class="col-md-12 my-auto mx-auto">
+          <label for="inputPassword5">Adresa</label>
+          <input type="text" id="pass" class="form-control" aria-describedby="passwordHelpBlock" placeholder="Ime ulice broj mesto postanski broj">
+          <div class="korisnik" id="tri">
+            
+          </div>
+        </div></div>
+        <div class="form-group">
+        <div class="col-md-12 my-auto mx-auto">
+          <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+            <input type="text" class="form-control" id="email" placeholder="nesto@nesto.com">
+            <div class="korisnik" id="cetiri">
+            </div>
+        </div>
+        </div>
+        <div class="form-group">
+        <div class="form-check pt-2">
+          <input class="form-check-input" type="checkbox" id="cek">
+          <label class="form-check-label">
+            Prihvati uslove koriscenja
+          </label>
+          <div class="korisnik">
+           
+          </div>
+        </div>
+        <div class="form-check pt-3">
+          <button class="btn btn-primary" id="dugme" type="submit">Pošalji</button>
+        </div>
+      </div>
+    </form>
+</div>
+<!-- Modal -->
+<div class="modal" id="exampleModalCenter"role="dialog" aria-labelledby="exampleModalScrollableTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable col-6 mx-auto" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalCenterTitle">Korpa</h5>
+        <button type="button" class="close zatvori" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" id="modal">
+       
+      </div>
+      <div class="modal-footer d-flex justify-content-between" id="modal-footer">
+       
+      </div>
+    </div>
+  </div>
+</div>
+<div class="card text-center mt-5">
+  <div class="card-header">
+    Nelica Stojadinović 136/18, <a class="primary-text text-decoration-none" href="dokumentacija.pdf">Dokumentacija</a>
+    </div></div>
+      <a href="#navbar"><div id="strelica"><i class="fa fa-chevron-up text-center"></i></div></a>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery.js"></script>
+<script type="text/javascript" src="js/main.js"></script>  
+</body>
+
+</html>

@@ -1,0 +1,85 @@
+[
+    {
+        "id": 20,
+        "naziv": "Svi proizvodi",
+        "src": "index.html",
+        "kategorija": 0
+    },
+{
+    "id": 1,
+    "kategorija": 1,
+    "naziv": "Zene",
+    "src":"index.html",
+    "vrste":[{
+                "id":4,
+                "naziv":"Stikle",
+                "kategorija": 1
+            },
+            {
+                "id": 5,
+                "naziv": "Zenske sandale",
+                "kategorija": 1
+            },
+            {
+                "id": 6,
+                "naziv": "Zenske cizme",
+                "kategorija": 1
+            },
+            {
+                "id": 12,
+                "naziv": "Zenske papuce",
+                "kategorija": 1
+            },
+            {
+                "id": 13,
+                "naziv": "Zenske patike",
+                "kategorija": 1
+            }
+            
+        ]
+},
+{
+    "id": 2,
+    "naziv": "Muskarci",
+    "src": "index.html",
+    "kategorija": 1,
+    "vrste": [
+        {
+            "id": 8,
+            "naziv": "Muske patike",
+            "kategorija": 1
+        },
+        {
+            "id": 9,
+            "naziv": "Muskarci cizme",
+            "kategorija": 1
+        },
+        {
+            "id": 16,
+            "naziv": "Muskarci papuce",
+            "kategorija": 1
+        }
+
+    ]
+},
+
+{
+    "id": 11,
+    "naziv": "Autor",
+    "src": "#autor",
+    "kategorija": 0
+},
+{
+    "id": 10,
+    "naziv": "Korpa",
+    "src": "index.html",
+    "kategorija": 0
+},
+{
+    "id": 21,
+    "naziv": "",
+    "src": "index.html",
+    "kategorija": 0
+}
+
+]
